@@ -1,11 +1,15 @@
 # todo_desktop
 
-A new Flutter project.
+FLutter Todo App for learn 
+by Ibrahim ahmad
+
+CODE JARIYAT PROJECTS
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet est une application simple pour Apprendre Flutter, des mise à jour suiveront Incha Allah
 
+Lancer vous avec FLutter ici : 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
